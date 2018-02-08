@@ -1,0 +1,6 @@
+Minecraft
+187.16
+7.798333333333333
+52
+2003
+['StarCraft', 11.0, 1998.0, 'Real-time strategy', 'Blizzard Entertainment']
